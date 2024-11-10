@@ -1,4 +1,4 @@
-FROM --platform=amd64 openjdk:17-oracle
+FROM --platform=amd64 openjdk:22-oracle
 
 WORKDIR /minecraft
 
